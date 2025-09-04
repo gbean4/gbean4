@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning to collect, clean and present beautiful data!
 - 📫 How to reach me: gbean4@byu.edu
-- ⚡ Fun fact: this is my second semester at BYU!
+- ⚡ Fun fact: I speak Cantonese!
 <!--
 **gbean4/gbean4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
